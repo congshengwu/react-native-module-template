@@ -2,7 +2,7 @@
 //  RNModuleTemplateModule.swift
 //  RNModuleTemplateModule
 //
-//  Copyright © 2021 Alex Demchenko. All rights reserved.
+//  Copyright © 2021 Shengwu Cong. All rights reserved.
 //
 
 import Foundation

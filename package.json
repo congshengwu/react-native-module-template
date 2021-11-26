@@ -1,11 +1,11 @@
 {
   "name": "react-native-module-template",
-  "version": "2.3.2",
-  "description": "A starter for the React Native library written in TypeScript, with linked example project and optional native code in Swift and Kotlin.",
-  "homepage": "https://github.com/demchenkoalex/react-native-module-template#readme",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/congshengwu/react-native-module-template#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "author": "Alex Demchenko <alexdemchenko@yahoo.com>",
+  "author": "Shengwu Cong <congsw@foxmail.com>",
   "license": "MIT",
   "files": [
     "android",
