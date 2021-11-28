@@ -2,11 +2,8 @@
   "name": "react-native-module-template",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/congshengwu/react-native-module-template#readme",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "author": "Shengwu Cong <congsw@foxmail.com>",
-  "license": "MIT",
   "files": [
     "android",
     "ios",
@@ -32,6 +29,21 @@
     "prepare": "yarn compile",
     "test": "jest"
   },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "Shengwu Cong <congsw@foxmail.com>",
+  "homepage": "https://github.com/congshengwu/react-native-module-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/congshengwu/react-native-module-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/congshengwu/react-native-module-template/issues"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/runtime": "^7.16.3",
