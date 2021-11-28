@@ -2,7 +2,7 @@ package com.example
 
 import android.app.Application
 import android.content.Context
-import com.shengwucong.reactnativemoduletemplate.RNModuleTemplatePackage
+import com.reactnative.moduletemplate.RNModuleTemplatePackage
 import com.facebook.react.*
 import com.facebook.soloader.SoLoader
 import java.lang.reflect.InvocationTargetException

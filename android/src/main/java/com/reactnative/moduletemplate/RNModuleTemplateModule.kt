@@ -1,4 +1,4 @@
-package com.shengwucong.reactnativemoduletemplate
+package com.reactnative.moduletemplate
 
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule
