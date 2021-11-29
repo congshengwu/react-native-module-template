@@ -1,7 +1,7 @@
 {
   "name": "react-native-module-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "react native library",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
